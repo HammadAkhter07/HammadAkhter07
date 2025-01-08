@@ -1,4 +1,4 @@
- ![github-header-image](https://github.com/user-attachments/assets/5b8ef341-c9b4-47c8-9740-b55a8ded74c6)
+
 
 <h1 align="center">Hi 👋, I'm Hammad Akhter</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>

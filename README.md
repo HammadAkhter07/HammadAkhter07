@@ -2,14 +2,17 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://empirical-software.engineering/assets/images/developer.png">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadakhter07&label=Profile%20views&color=0e75b6&style=flat" alt="hammadakhter07" /> </p>
 
 - 🌱 I’m currently learning **Modern Web Development At SMIT Program**
 
+- 👨‍💻 All of my projects are available at [https://hammadakhter07.wixsite.com/hammad07](https://hammadakhter07.wixsite.com/hammad07)
+
 - 💬 Ask me about **html>css>js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hammad-akhter-0b88a733b/**
+
+- 📄 Know about my experiences [https://hammadakhter07.wixsite.com/hammad07](https://hammadakhter07.wixsite.com/hammad07)
 
 - ⚡ Fun fact **Communicate in a funny way**
 
@@ -28,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadakhter07&show_icons=true&locale=en" alt="hammadakhter07" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadakhter07&" alt="hammadakhter07" /></p>

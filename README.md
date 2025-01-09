@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Modern Web Development At SMIT Program**
 
-- 👨‍💻 All of my projects are available at [https://hammadakhter07.wixsite.com/hammad07](https://hammadakhter07.wixsite.com/hammad07)
-
 - 💬 Ask me about **html>css>js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hammad-akhter-0b88a733b/**

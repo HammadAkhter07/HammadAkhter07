@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/hammad-akhter-0b88a733b/**
 
-- 📄 Know about my experiences [https://hammadakhter07.wixsite.com/hammad07](https://hammadakhter07.wixsite.com/hammad07)
-
 - ⚡ Fun fact **Communicate in a funny way**
 
 <h3 align="left">Connect with me:</h3>

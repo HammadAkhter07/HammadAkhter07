@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hammad Akhter</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://empirical-software.engineering/assets/images/developer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadakhter07&label=Profile%20views&color=0e75b6&style=flat" alt="hammadakhter07" /> </p>
 
 - 🌱 I’m currently learning **Modern Web Development At SMIT Program**
 
-- 💬 Ask me about **html>css>js**
+- 💬 Ask me about **html>css>js>React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hammad-akhter-0b88a733b/**
 
-- ⚡ Fun fact **Communicate in a funny way**
+- ⚡ Fun fact **Focused On Innovation And Achieving Excellence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
